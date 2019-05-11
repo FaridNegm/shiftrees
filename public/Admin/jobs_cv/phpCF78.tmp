@@ -1,0 +1,44 @@
+<html>
+
+<title>Your New Website Created !</title>
+
+<style>
+
+body {
+
+margin: 0 0 0 0;
+
+background-repeat:no-repeat;
+
+background-position:top center;
+
+background: #90BBDB url('http://www.eb2a.com/images/bgfull.jpg');
+
+background-repeat:no-repeat;
+
+background-position:top center;
+
+font: normal 11px Tahoma;
+
+color: #FFFFFF;
+
+}
+
+</style>
+
+<center>
+
+<img src="http://www.eb2a.com/images/newsite.png">
+</script>
+</center>
+<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- eb2a.com - 728x90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1572929095941198"
+     data-ad-slot="7333195862"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
